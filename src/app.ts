@@ -3,7 +3,7 @@ const app: Application = express()
 import cors from 'cors'
 app.use(cors())
 
-//app
+//app add
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 export default app
