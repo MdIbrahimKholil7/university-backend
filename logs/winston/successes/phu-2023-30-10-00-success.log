@@ -1,0 +1,51 @@
+Mon Oct 30 2023 0:3:30 } [PH] info: 😎😋😎 database connection established successfully ✅✅✅
+Mon Oct 30 2023 0:3:30 } [PH] info: Port
+Mon Oct 30 2023 0:3:30 } [PH] info: server listening on port 
+Mon Oct 30 2023 0:9:45 } [PH] info: 😎😋😎 database connection established successfully ✅✅✅
+Mon Oct 30 2023 0:9:45 } [PH] info: Port
+Mon Oct 30 2023 0:9:45 } [PH] info: server listening on port 
+Mon Oct 30 2023 0:9:55 } [PH] info: 😎😋😎 database connection established successfully ✅✅✅
+Mon Oct 30 2023 0:9:55 } [PH] info: Port
+Mon Oct 30 2023 0:9:55 } [PH] info: server listening on port 
+Mon Oct 30 2023 0:10:55 } [PH] info: {
+  id: '00008',
+  password: 'student124',
+  role: 'student',
+  _id: new ObjectId("653ea02f6fe87a8fed11482c"),
+  createdAt: 2023-10-29T18:10:55.769Z,
+  updatedAt: 2023-10-29T18:10:55.769Z,
+  __v: 0
+}
+Mon Oct 30 2023 0:11:12 } [PH] info: {
+  id: '00009',
+  password: 'student124',
+  role: 'student',
+  _id: new ObjectId("653ea0406fe87a8fed11482f"),
+  createdAt: 2023-10-29T18:11:12.244Z,
+  updatedAt: 2023-10-29T18:11:12.244Z,
+  __v: 0
+}
+Mon Oct 30 2023 0:12:43 } [PH] info: 😎😋😎 database connection established successfully ✅✅✅
+Mon Oct 30 2023 0:12:43 } [PH] info: Port
+Mon Oct 30 2023 0:12:43 } [PH] info: server listening on port 
+Mon Oct 30 2023 0:12:55 } [PH] info: {
+  id: '00010',
+  password: 'student124',
+  role: 'student',
+  _id: new ObjectId("653ea0a7a29e576e297c1a58"),
+  createdAt: 2023-10-29T18:12:55.846Z,
+  updatedAt: 2023-10-29T18:12:55.846Z,
+  __v: 0
+}
+Mon Oct 30 2023 0:12:57 } [PH] info: {
+  id: '00011',
+  password: 'student124',
+  role: 'student',
+  _id: new ObjectId("653ea0a9a29e576e297c1a5b"),
+  createdAt: 2023-10-29T18:12:57.894Z,
+  updatedAt: 2023-10-29T18:12:57.894Z,
+  __v: 0
+}
+Mon Oct 30 2023 0:14:39 } [PH] info: 😎😋😎 database connection established successfully ✅✅✅
+Mon Oct 30 2023 0:14:39 } [PH] info: Port
+Mon Oct 30 2023 0:14:39 } [PH] info: server listening on port 
