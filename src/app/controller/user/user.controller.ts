@@ -1,6 +1,6 @@
 import { Request, Response } from 'express'
-import { createUserService } from '../userService/createUser'
-import { successLogger } from '../../shared/logger'
+import { createUserService } from '../../userService/createUser'
+import { successLogger } from '../../../shared/logger'
 
 class UserController {
   static createUser = async (req: Request, res: Response) => {

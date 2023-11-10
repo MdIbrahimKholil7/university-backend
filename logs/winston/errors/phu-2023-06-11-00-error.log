@@ -1,0 +1,36 @@
+Mon Nov 06 2023 0:1:34 } [PH] error: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "User role is required"
+  }
+]
+Mon Nov 06 2023 0:2:17 } [PH] error: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "User role is required"
+  }
+]
+Mon Nov 06 2023 0:7:47 } [PH] error: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "User role is required"
+  }
+]

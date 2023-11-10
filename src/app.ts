@@ -6,9 +6,10 @@ import { createUserService } from '../src/app/userService/createUser'
 import { AppError } from './error/error'
 
 import userRouter from '../src/app/routes/user.routes'
-
+import { errorLogger } from './shared/logger'
+import morgan from 'morgan'
 app.use(cors())
-
+app.use(morgan('dev'))
 //app add fd
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
@@ -28,6 +29,7 @@ app.get('/test-error', (req: Request, res: Response) => {
 })
 app.use('/user', userRouter)
 app.use((err, req: Request, res: Response, next: NextFunction) => {
+  errorLogger.error(err)
   res.status(500).json({
     success: false,
     message: err,
